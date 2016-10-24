@@ -1,0 +1,19 @@
+# Project
+before/
+mod_fsc/fsc_data/
+mod_fsc/record/
+mod_fsc/report_html/
+continue/
+
+# Editor
+.idea/
+
+
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.pyc
+*$py.class
+
+# C extensions
+*.so
+
