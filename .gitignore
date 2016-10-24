@@ -1,8 +1,7 @@
 # Project
 before/
-mod_fsc/fsc_data/
-mod_fsc/record/
-mod_fsc/report_html/
+*.xlsx
+mod_fsc/report_html/*.html
 continue/
 
 # Editor
