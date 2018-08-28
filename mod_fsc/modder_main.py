@@ -29,7 +29,7 @@ class Modder_Main(object):
 
 
 if __name__ == "__main__":
-    db_infor = 'DYKMESV2/DYKMESV2@10.125.16.103:1521/DYKMESV2'
+    db_infor = ''
     # filename = '20160819.csv'
     # filename = u'UC 二工厂GMES需调整信息20160819.xlsx'
     obj_modder = Modder_Main()
